@@ -2,7 +2,6 @@ sample/
 build/
 dist/
 *.pdf
-*.mp4
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,visualstudiocode,python
