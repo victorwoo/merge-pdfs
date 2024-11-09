@@ -1,5 +1,7 @@
 # merge-pdfs
 
+![banner](img/banner.png)
+
 ## 简介
 
 `merge-pdfs` 是一个 Python 脚本，用于合并多个 PDF 文件。它支持自定义排序规则，确保合并后的 PDF 文件按照特定的顺序排列。
